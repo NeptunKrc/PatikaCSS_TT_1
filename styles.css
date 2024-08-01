@@ -1,0 +1,43 @@
+.AnaBaslik{
+    color:red;
+    margin-left: 45%;
+    margin-right:40%;
+}
+.NavItem{
+    margin-right: 10px;
+}
+.Nav{
+    margin-left: 45%;
+    margin-right: 40%;
+}
+.AltBaslik{
+    color:purple;
+    margin-left: 49%;
+    margin-right: 40%;
+}
+.MainText{
+    margin-left: 30%;
+    margin-right: 25%;
+
+}
+.AltAltBaslik{
+    color: orange;
+    margin-left: 48%;
+    margin-right: 40%;
+}
+.TurList{
+    margin-left: 48%;
+    margin-right: 40%;
+}
+.UrunList{
+    margin-left: 43%;
+    margin-right: 45%;
+}
+.UrunP{
+    font-weight: bold;
+    margin-top: 10px;
+}
+.Fiyat{
+    color: green;
+    margin-left: 5px;
+}
